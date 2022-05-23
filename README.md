@@ -3,3 +3,5 @@ Find current price of bitcoin. You can keep finding as well and you can set for 
 
 Will be adding an infinite number of times to retrieve 
 Will add custom intervals 
+
+Variable names are abit scuffed :)
